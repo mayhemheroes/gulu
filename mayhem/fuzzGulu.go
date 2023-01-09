@@ -1,4 +1,4 @@
-package fuzz
+package fuzzGulu
 
 import "strconv"
 import "github.com/88250/gulu"
